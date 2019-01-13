@@ -87,7 +87,7 @@ public class SmartbarSettings extends SettingsPreferenceFragment implements
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         addPreferencesFromResource(R.xml.smartbar_settings);
-
+        getActivity().getActionBar().setTitle(R.string.bottom_nav_navigation_title);
         mFooterPreferenceMixin.createFooterPreference().setTitle(R.string.smartbar_help_policy_notice_summary);
 
         int contextVal = Settings.Secure.getIntForUser(getContentResolver(),
