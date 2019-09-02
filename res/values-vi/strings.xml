@@ -167,7 +167,7 @@
     <!-- SmartBar -->
     <string name="smartbar_category">Thanh thông minh</string>
     <string name="smartbar_settings_title">Cài đặt thanh thông minh</string>
-    <string name="smartbar_settings_summary">Tùy biến thanh điều hướng đầy đủ</string>
+    <string name="smartbar_settings_summary">Tùy biến thanh điều hướng hoàn toàn</string>
     <string name="smartbar_editor_title">Bắt đầu chế độ chỉnh sửa</string>
     <string name="smartbar_editor_summary">Mở trình chỉnh sửa nút thanh thông minh</string>
     <string name="smartbar_help_policy_notice_summary">Khi ở chế độ chỉnh sửa, nhấn vừa và kéo một nút để thay đổi vị trí hoặc nhấn lâu một nút để hiển thị trình đơn chỉnh sửa. Vị trí nút có thể thay đổi trong khi trình đơn đang hiển thị.\n\nCài đặt một thao tác nhấn đúp sẽ làm chậm trễ một chút.</string>
