@@ -59,10 +59,10 @@
     <string name="fling_right_up_swipe">Vuốt từ cạnh phải lên</string>
     <string name="fling_left_up_swipe">Vuốt từ cạnh trái lên</string>
     <string name="fling_single_tap">Chạm bên phải</string>
-    <string name="fling_double_tap">Chạm đúp bên phải</string>
+    <string name="fling_double_tap">Chạm hai lần bên phải</string>
     <string name="fling_long_press">Nhấn giữ bên phải</string>
     <string name="fling_single_left_tap">Chạm bên trái</string>
-    <string name="fling_double_left_tap">Chạm đúp bên trái</string>
+    <string name="fling_double_left_tap">Chạm hai lần bên trái</string>
     <string name="fling_long_left_press">Nhấn giữ bên trái</string>
     <string name="long_swipe_portrait_title">Chiều dọc</string>
     <string name="long_swipe_landscape_title">Chiều ngang</string>
@@ -96,14 +96,14 @@
     <string name="fling_longpress_timeout_label_left">Độ trễ thấp</string>
     <string name="fling_longpress_timeout_label_right">Độ trễ cao</string>
     <string name="fling_longpress_title">Độ trễ khi nhấn giữ</string>
-    <string name="fling_longpress_summary">Tăng hoặc giảm thời gian cần thiết để thực hiện nhấn giữ</string>
+    <string name="fling_longpress_summary">Tăng hoặc giảm độ trễ khi nhấn giữ</string>
     <string name="fling_keyboard_cursors_title">Hành động con trỏ bàn phím động</string>
     <string name="fling_keyboard_cursors_summary">Hành động chạm đúp bên trái hoặc phải trở thành con trỏ bàn phím bên trái hoặc phải khi bàn phím đang hiển thị</string>
     <string name="fling_logo_opacity_title">Độ mờ logo Fling</string>
     <string name="fling_factory_reset_title">Đặt lại về mặc định</string>
     <string name="fling_factory_reset_confirm">Bạn có chắc chắn muốn đặt lại Fling về cài đặt gốc không?</string>
     <string name="fling_backup_current_config_title">Lưu cấu hình</string>
-    <string name="fling_restore_config_title">Khôi phục lại cấu hình</string>
+    <string name="fling_restore_config_title">Khôi phục cấu hình</string>
     <string name="fling_config_name_edit_dialog_title">Tên cấu hình Fling</string>
     <string name="fling_config_name_edit_dialog_message">Nhập tên hoặc để trống</string>
     <string name="fling_config_dialog_title">Cấu hình Fling</string>
@@ -216,14 +216,14 @@
     <string name="gesture_interface_title">Cử chỉ</string>
     <string name="use_bottom_gesture_title">Điều hướng bằng cử chỉ</string>
     <string name="use_bottom_gesture_summary">Sử dụng cử chỉ vuốt lên phía dưới để điều hướng</string>
-    <string name="gesture_swipe_length_title">Độ cao cử chỉ vuốt</string>
-    <string name="gesture_swipe_length_summary">Độ cao cần vuốt để kích hoạt cử chỉ</string>
+    <string name="gesture_swipe_length_title">Độ cao khu vực vuốt</string>
+    <string name="gesture_swipe_length_summary">Độ cao từ dưới lên để kích hoạt vuốt</string>
     <string name="gesture_swipe_start_title">Độ cao bât đầu vuốt</string>
     <string name="gesture_swipe_start_summary">Độ cao tối thiểu ở cạnh dưới để kích hoạt cử chỉ vuốt</string>
     <string name="gesture_action_timeout_title">Thời gian kích hoạt vuốt</string>
     <string name="gesture_action_timeout_summary">Thời gian trước khi hành động cử chỉ được bắt đầu</string>
     <string name="bottom_gestures_feedback_duration_title">Thời gian chờ phản hồi</string>
     <!-- Navbar Animation -->
-    <string name="pixel_navbar_anim_title">Hoạt ảnh Pixel</string>
+    <string name="pixel_navbar_anim_title">Hoạt ảnh pixel</string>
     <string name="pixel_navbar_anim_summary">Chuyển đổi hoạt ảnh nút Trang chủ trên thanh điều hướng gốc</string>
 </resources>
